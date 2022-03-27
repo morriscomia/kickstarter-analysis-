@@ -1,2 +1,16 @@
-An Analysis of Kickstarter Campaigns
-Performing Analysis on Kickstarter data to uncover trends
+Overview of Project:
+An Analysis of Kickstarter Campaig was performed using Kickstarter data to help inform Louise about crowdfunding campaigns, and what factors may help her have a successful campaign for her play "Fever".
+
+Analysis and Challenges
+
+To perform this analysis, I created a pivot table and chart using the Kickstarter data. I filtered the data by the parent category, theater. I then placed the outcomes in the columns and the launch date in the rows.A potential challenge with completing this analysis is how to get the months to display correctly in the Outcomes Based on Launch Date Pivot Table. This data did not automatically appear as needed, I had to use the grouping function in Pivot Table Analyze menu to resolve the issue. 
+ Outcomes_vs_Goals.png 
+
+By taking an initial look at the raw data I figured it had to be sorted and prepared for the analysis by creating a chart with goal amounts for the rows and the Number of Successful, Failed, and Cancelled campaigns as well as percentage of each of those in the columns. To find this data, I created COUNTIFS staments to pull data from the Kickstarter data tab. I then created a line chart with the goals on the x-axis and percentages on the y-axis. The chart gives a great visual representation of the data. Another potential challenge was completing the COUNTIFS statements in the Outcomes Based on Goals Analysis. If unfamiliar with this formula, it is challenging to make sure to include all of the variables, especially to include the correct goal amounts in the formula.
+
+
+
+The below chart is based on the Subcategory "plays" Outcomes based on goals. And it helps us to conclude that the subcategory "Plays" is the most successful of all. There were 412 successful Plays in the US and 238 in GB.
+
+Results
+-Knowing which season and/or month to launch a kickstarter may be key to success. Data shows that successful theater campaigns were launched during late Spring/early Summer (May-June), whereas failed campaignes were launched during the Winter (December).
