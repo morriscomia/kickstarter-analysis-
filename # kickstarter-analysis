@@ -25,8 +25,13 @@ The first conclusion that I draw from the Outcomes based on Goals analysis is th
 
 
 Results
+
 -Knowing which season and/or month to launch a kickstarter may be key to success. Data shows that successful theater campaigns were launched during late Spring/early Summer (May-June), whereas failed campaignes were launched during the Winter (December).
 
-Limitations
+Limitationsof Data set
 -Information on the Genre of plays would have helped determine the success of plays and give better analysis to Louise.
 -The dataset is from the year range - 2009 till 2017. If we had information about current data. We could have analyzed current trends.
+
+A recommendation for additional tables or graphs :
+A clustered column chart can be used to show the outcomes based on Launched Date.
+A stacked column, Clustered column chart can be used to show Outcomes based on goals.
