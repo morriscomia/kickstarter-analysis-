@@ -10,7 +10,7 @@ The first conclusion that I draw from the Outcomes based on Launch Date Analysis
 The second conclusion is that December and January are the worst months to launch a Kickstarter campaign.
 
 
-![Launch](https://github.com/morriscomia/kickstarter-analysis-/blob/6596b2609115e109a6608b7b263ed6028ba63901/Outcomes_vs_Goals.png)
+![image](https://github.com/morriscomia/kickstarter-analysis-/blob/4bf1b7fe2bdb7b59c81fbae9cab6b1d50d1039e0/Theater_Outcomes_vs_Launch.png%20.png)
 
 Analysis and Challenges:
 
@@ -21,6 +21,7 @@ Conclusions:
 The first conclusion that I draw from the Outcomes based on Goals analysis is that campaigns up to $5000 are the most successful. The second conclusion from this analysis is that campaigns of $45,000 and up are very unsuccessful.
 
 ![image](https://github.com/morriscomia/kickstarter-analysis-/blob/4bf1b7fe2bdb7b59c81fbae9cab6b1d50d1039e0/Theater_Outcomes_vs_Launch.png%20.png)
+![Launch](https://github.com/morriscomia/kickstarter-analysis-/blob/6596b2609115e109a6608b7b263ed6028ba63901/Outcomes_vs_Goals.png)
 
 
 
